@@ -6,6 +6,6 @@
 ## Insights from Dashboard
 - Middle age range(32-53) people mostly purchased the bike.
 - People having Commute distance 1-3 miles purchased more bike.
-- Most number of bike purchased is highest in North America.
+- Most number of bike purchased is in North America.
 - Married people have high chances of purchasing a bike.
-- People have Graduate degree have highest average income.
+- People having Graduate degree have highest average income.
